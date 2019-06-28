@@ -1,1 +1,1 @@
-# anaeva.chacon.splc19
+# Here you can find the resources for the paper Variability Management in a Software Product Line Unaware Company: TowaHere you can find the resources for the paper Variability Management in a Software Product Line Unaware Company: Towards a Real Evaluation
